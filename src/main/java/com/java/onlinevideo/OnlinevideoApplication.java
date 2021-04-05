@@ -11,6 +11,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 public class OnlinevideoApplication {
 
     public static void main(String[] args) {
+        System.out.print("git测试修改");
         SpringApplication.run(OnlinevideoApplication.class, args);
     }
 
